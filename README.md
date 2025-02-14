@@ -1,5 +1,4 @@
 <h1 align="center">Hey there! I'm Fredery 👋</h1>
-###⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
 
 
 <p align="center">
@@ -13,6 +12,7 @@
 
 ---
 
+###⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
 ### 📫 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/fredery-pena/">
