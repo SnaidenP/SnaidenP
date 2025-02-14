@@ -11,8 +11,8 @@
 </p>
 
 ---
+⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
 
-###⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
 ### 📫 Connect with Me  
 <p>
   <a href="https://www.linkedin.com/in/fredery-pena/">
