@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Fredery 👋</h1>
-⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
+###⭐ **Fun fact:** If I could optimize my aim like my code, I'd be unstoppable.
 
 
 <p align="center">
